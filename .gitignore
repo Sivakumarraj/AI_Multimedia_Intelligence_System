@@ -1,0 +1,23 @@
+# Python environment
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Temporary / uploaded files
+uploads/
+temp.jpg
+*.log
+
+# IDE & OS files
+.vscode/
+*.DS_Store
+
+# Node files (if React/JS frontend later)
+node_modules/
+package-lock.json
